@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @S-Jo
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
-
+- 👀 I’m interested in AWS
+- 🌱 I’m currently learning to built and deploy static websites
+- 💞️ My websites portfolio:
+  t.ly/-DOA
+  t.ly/pIzM
+  asso.site
+  
